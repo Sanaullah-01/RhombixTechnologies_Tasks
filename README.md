@@ -44,4 +44,3 @@ A full-stack application that enables users to upload, view, and organize photos
 ## 🔗 Connect with Me
 - **LinkedIn:** [https://www.linkedin.com/in/sana-ullah-aa370b32a]
 - **GitHub:** [https://github.com/Sanaullah-01]
-- # RhombixTechnologies_Tasks
