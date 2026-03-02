@@ -36,8 +36,9 @@ A full-stack application that enables users to upload, view, and organize photos
 
 ---
 
-## 📁 Project 02: (Coming Soon...)
-*This section will be updated upon the commencement of the next task.*
+## 📁 Project 02: Retrieval-Based Chatbot
+- Check here:
+https://github.com/Sanaullah-01/RhombixTechnologies_Task02
 
 ---
 
